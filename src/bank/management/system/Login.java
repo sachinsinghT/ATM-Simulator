@@ -53,6 +53,8 @@ public class Login extends JFrame {
         pinTextField.setBounds(300,220,250,30);
         add(pinTextField);
         
+        JButton login = new JButton("SIGN IN");
+        
         getContentPane().setBackground(Color.white);
         
         
